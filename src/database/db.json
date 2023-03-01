@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Donaldo",
+      "username": "donaldyel",
+      "email": "donald.yelouassi@gmail.com",
+      "phone": "63684953",
+      "id": 2
+    },
+    {
+      "name": "Yeloteam",
+      "username": "dbuser1",
+      "email": "lioneldurand99@gmail.com",
+      "phone": "66 68 49 53",
+      "id": 3
+    },
+    {
+      "name": "Judith",
+      "username": "Ditho",
+      "email": "judithmiflinso99@gmail.com",
+      "phone": "96015824",
+      "id": 4
+    }
+  ]
+}
